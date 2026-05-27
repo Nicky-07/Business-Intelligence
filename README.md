@@ -1,6 +1,6 @@
 # 🛒 Business Intelligence Sales Performance Dashboard
 
-![Power BI Dashboard](Project_1.png)
+![Power BI Dashboard](1st_Page.png)
 
 ## 📌 Project Overview
 
@@ -34,7 +34,7 @@ The dashboard consists of two fully interactive pages.
 
 # 📄 Dashboard Page 1 — Sales & Profit Analysis
 
-![Dashboard Overview](Project_1.png)
+![Dashboard Overview](1st_Page.png)
 
 This page focuses on:
 
@@ -128,7 +128,7 @@ Across categories:
 
 # 📄 Dashboard Page 2 — Returns & Shipping Analysis
 
-![Detailed Dashboard](Project_2.png)
+![Detailed Dashboard](2nd_Page.png)
 
 This page provides detailed operational insights.
 
@@ -412,13 +412,13 @@ Analyzed:
 
 ## Furniture Category Analysis
 
-![Furniture Analysis](Project_3.png)
+![Furniture Analysis](3rd_Page.png)
 
 ---
 
 ## Furniture Detailed Insights
 
-![Furniture Detailed Analysis](Project_4.png)
+![Furniture Detailed Analysis](4th_Page.png)
 
 ---
 
